@@ -1,0 +1,4 @@
+X = ['Year', 'Mileage', 'Condition_New', 'Condition_Used', 'Make_Acura', 'Make_Alfa', 'Make_Aston', 'Make_Audi', 'Make_BMW', 'Make_Bentley', 'Make_Bugatti', 'Make_Buick', 'Make_Cadillac', 'Make_Chevrolet', 'Make_Chrysler', 'Make_Delorean', 'Make_Dodge', 'Make_FIAT', 'Make_Ferrari', 'Make_Fisker', 'Make_Ford', 'Make_GMC', 'Make_Genesis', 'Make_Honda', 'Make_Hummer', 'Make_Hyundai', 'Make_INFINITI', 'Make_Isuzu', 'Make_Jaguar', 'Make_Jeep', 'Make_Kia', 'Make_Lamborghini', 'Make_Land', 'Make_Lexus', 'Make_Lincoln', 'Make_Lotus', 'Make_MINI', 'Make_Maserati', 'Make_Mazda', 'Make_McLaren', 'Make_Mercedes-Benz', 'Make_Mercury', 'Make_Mitsubishi', 'Make_Nissan', 'Make_Oldsmobile', 'Make_Plymouth', 'Make_Polestar', 'Make_Pontiac', 'Make_Porsche', 'Make_RAM', 'Make_Rivian', 'Make_Rolls-Royce', 'Make_Saab', 'Make_Saturn', 'Make_Scion', 'Make_Subaru', 'Make_Tesla', 'Make_Toyota', 'Make_Triumph', 'Make_Volkswagen', 'Make_Volvo']
+
+
+print(len(X))
